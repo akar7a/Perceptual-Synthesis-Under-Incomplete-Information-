@@ -1,4 +1,4 @@
-![Book Cover](cover.png)
+![Book Cover](Cover.png)
 ## 📘 Download the Book
 
 **Perceptual Synthesis Under Incomplete Information**
