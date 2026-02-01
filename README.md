@@ -1,4 +1,4 @@
-![Book Cover](Cover.png)
+![Book Cover](https://github.com/akar7a/Perceptual-Synthesis-Under-Incomplete-Information-/blob/main/Cover.png)
 ## 📘 Download the Book
 
 **Perceptual Synthesis Under Incomplete Information**
